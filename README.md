@@ -21,25 +21,6 @@ This is a Photo Gallery application built with React, TypeScript, and Tailwind C
 - **Jest**: A JavaScript testing framework.
 - **React Testing Library**: A library for testing React components.
 
-## Project Structure
-
-src/
-├── components/
-│ ├── Gallery.tsx
-│ ├── ImageCard.tsx
-│ ├── Message.tsx
-│ ├── Pagination.tsx
-│ ├── PhotoGallery.tsx
-│ └── SearchBar.tsx
-├── hooks/
-│ └── useDebounce.ts
-├── types/
-│ └── unsplash.ts
-├── utils/
-│ └── stringOperations.ts
-├── App.tsx
-└── index.tsx
-
 ## Installation
 
 1. Clone the repository:
