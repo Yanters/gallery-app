@@ -10,12 +10,14 @@ This is a Photo Gallery application built with React, TypeScript, and Tailwind C
 - **Loading State**: A loading spinner is displayed while fetching data.
 - **Error Handling**: An error message is displayed if there is an issue fetching data.
 - **Pagination**: Users can navigate through pages of search results.
+- **Caching**: Request are being cached.
 
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **TanStackQuery v4**: A library for data fetching.
 - **React Icons**: A library of popular icons for React applications.
 - **React Loader Spinner**: A library for loading spinners in React applications.
 - **Jest**: A JavaScript testing framework.
